@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KarthikChallagundla
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me 
 - 😄 Pronouns: He/Him
 
 ---
